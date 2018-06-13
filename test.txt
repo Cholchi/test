@@ -3,3 +3,4 @@ hogehoge
 commit record index
 pull remote repositry
 amend test2
+revert test
