@@ -2,3 +2,4 @@ test file
 hogehoge
 commit record index
 pull remote repositry
+amend test
